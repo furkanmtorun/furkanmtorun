@@ -6,7 +6,7 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&color=blue&logo=Web&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://scholar.google.com/citations?user=d5ZyOZ4AAAAJ)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
 
-👨‍💻 Data Analyst at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
+👨‍💻 Data Analyst and Web Developer at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
 
 👨‍🎓 Studying Molecular Biology and Genetics in TR
 
