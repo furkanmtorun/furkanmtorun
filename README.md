@@ -1,6 +1,6 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true'>
 
-### Hi there, I'm Furkan Torun! 👋
+### Hi there, I'm Furkan M. Torun! 👋
 
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
 [![Google Scholar Profile](https://img.shields.io/static/v1?label=Google%20Scholar%20Profile&color=blue&logo=Web&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://scholar.google.com/citations?user=d5ZyOZ4AAAAJ)
