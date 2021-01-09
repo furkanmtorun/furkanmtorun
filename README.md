@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/furkanmtorun/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
 
-👨‍💻 Data Analyst and Web Developer at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
+👨‍💻 Data Scientist and Web Developer at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
 
 👨‍🎓 Studying Molecular Biology and Genetics in TR
 
