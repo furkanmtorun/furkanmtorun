@@ -6,6 +6,7 @@
 [![Google Scholar Profile](https://img.shields.io/static/v1?label=Google%20Scholar%20Profile&color=blue&logo=Web&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://scholar.google.com/citations?user=d5ZyOZ4AAAAJ)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/furkanmtorun/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
+![furkanmtorun](https://komarev.com/ghpvc/?username=furkanmtorun&color=blueviolet)
 
 👨‍💻 Data Scientist and Web Developer at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
 
