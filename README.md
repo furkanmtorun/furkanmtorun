@@ -8,11 +8,11 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
 ![furkanmtorun](https://komarev.com/ghpvc/?username=furkanmtorun&color=blueviolet)
 
-👨‍💻 Data Scientist and Web Developer at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
+👨‍💻 Data Scientist at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
 
-👨‍🎓 Studying Molecular Biology and Genetics in TR
+👨‍🎓 Studying Molecular Biology and Genetics
 
-🧬 Debugging DNA software as an undergrad researcher
+🧬 Debugging DNA software
 
 **Technical Skills:**  
 
