@@ -12,7 +12,7 @@
 
 👨‍🎓  Molecular Biologist and Geneticist
 
-🖥  Full-Stack Web Developer 
+🖥  Full Stack Web Developer 
 
 🧬  Debugging DNA software
 
