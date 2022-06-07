@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
 ![furkanmtorun](https://komarev.com/ghpvc/?username=furkanmtorun&color=blueviolet)
 
-- 🎓 Molecular biologist and geneticist with solid research experience and programming background
+- 🎓 Molecular Biologist and Geneticist
 
 - 👨‍💻  Data Scientist at [OmicEra Diagnostics](https://omicera.com/), Munich, DE
 
