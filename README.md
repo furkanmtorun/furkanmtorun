@@ -4,7 +4,7 @@
 
 - 🧬  *debugging DNA software!*
 - 🎓 Graduated in Molecular Biologist and Geneticist
-- 👨‍💻  Data Scientist at [OmicEra Diagnostics](https://omicera.com/), Munich, Germany
+- 👨‍💻  Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/), Munich, Germany
 - 🧪  (Former) Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
 - **🎯 Interested in:** 
   Bioinformatics/Computational Biology, Machine Learning, <br> Genetics & Genomics, Full-Stack Web Dev, Open-Source Science
