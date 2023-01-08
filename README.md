@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Furkan M. Torun! 👋
 
-- 🧬  *debugging DNA software!*
-- 🎓 Graduated in Molecular Biologist and Geneticist
-- 👨‍💻  Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🧪  (Former) Data Scientist at [OmicEra Diagnostics](http://omicera.com/) & Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
+- 🧬 *debugging DNA software!*
+- 🎓 Graduated in Molecular Biology and Genetics
+- 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
+- 🧪 (Former) Data Scientist at [OmicEra Diagnostics](http://omicera.com/) & Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
 - **🎯 Interested in:** 
   Bioinformatics/Computational Biology, Machine Learning, <br> Genetics & Genomics, Full-Stack Web Dev, Open-Source Science
 
