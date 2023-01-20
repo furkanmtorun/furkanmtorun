@@ -44,7 +44,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmtorun&layo
 </summary>
 <ul>
 <li><b>Full-Stack Data Science:</b> Python, Pandas, NumPy, scikit-learn, PyTorch, MLFlow, SHAP, DVC, Matplotlib, Plotly, Seaborn, Bokeh, Streamlit</li>
-<li><b>Web Development:</b> JavaScript, Flask, PHP, HTML/CSS</li>
+<li><b>Web Development:</b> JavaScript, Flask, HTML/CSS</li>
 <li><b>Bioinformatics/Computational Biology:</b> Genetics/Genomics, NGS/Variant Calling, Mass spectrometer-based proteomics, RNA-Seq, CLI/GUI tool development</li>
 <li><b>Others:</b> Bash/Shell Scripting, Docker, REST (FastAPI) and GraphQL APIs, MySQL/SQLite/PostgreSQL, MongoDB, CI/CD (with GitHub Actions), Behavior-Driven Development, MetaFlow</li>
 <li><b>Cloud:</b> AWS</li>
