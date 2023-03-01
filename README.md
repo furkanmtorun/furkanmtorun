@@ -47,6 +47,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmtorun&layo
 <li><b>Web Development:</b> JavaScript, Flask, HTML/CSS</li>
 <li><b>Bioinformatics/Computational Biology:</b> Genetics/Genomics, NGS/Variant Calling, Mass spectrometer-based proteomics, RNA-Seq, CLI/GUI tool development</li>
 <li><b>Others:</b> Bash/Shell Scripting, Docker, REST (FastAPI) and GraphQL APIs, MySQL/SQLite/PostgreSQL, MongoDB, CI/CD (with GitHub Actions), Behavior-Driven Development, MetaFlow</li>
-<li><b>Cloud:</b> AWS</li>
+<li><b>Cloud:</b> AWS, Packer, Terraform (beginner)</li>
 </ul>
 </details>
