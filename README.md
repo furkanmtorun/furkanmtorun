@@ -1,17 +1,16 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true&theme=transparent'>
 
 ### Hi there, I'm Furkan M. Torun! 👋
 
 - 🧬 *debugging DNA software!*
 - 🎓 Graduated in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/) | Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
+- 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/), Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
 - **🎯 Interested in:** 
   - Data Science & Machine Learning
   - Bioinformatics/Computational Biology
   - (AWS) Cloud-based Development
   - Genetics & Omics
-  - Open-source Science
 
 **🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
@@ -40,8 +39,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmtorun&layout=compact 
-
 
 <details>
 <summary>
