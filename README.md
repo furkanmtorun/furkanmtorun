@@ -5,18 +5,23 @@
 - 🧬 *debugging DNA software!*
 - 🎓 Graduated in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🧪 (Former) Data Scientist at [OmicEra Diagnostics](http://omicera.com/) & Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
+- 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/) | Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
 - **🎯 Interested in:** 
-  Bioinformatics/Computational Biology, Machine Learning, <br> Genetics & Genomics, Full-Stack Web Dev, Open-Source Science
+  - Data Science & Machine Learning
+  - Bioinformatics/Computational Biology
+  - (AWS) Cloud-based Development
+  - Genetics & Omics
+  - Open-source Science
 
 **🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
-[![Google Scholar Profile](https://img.shields.io/static/v1?label=Google%20Scholar%20Profile&color=blue&logo=Web&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://scholar.google.com/citations?user=d5ZyOZ4AAAAJ)
+[![Website](https://img.shields.io/badge/-Personal%20Website-blueviolet.svg)](https://furkanmtorun.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/furkanmtorun/)
+[![Google Scholar Profile](https://img.shields.io/static/v1?label=Google%20Scholar%20Profile&color=blue&logo=Web&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://scholar.google.com/citations?user=d5ZyOZ4AAAAJ)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
 ![furkanmtorun](https://komarev.com/ghpvc/?username=furkanmtorun&color=blueviolet)
 
-<!-- DISABLE TECH STACK/SKILLS LOGO
+<!-- DISABLE TECH STACK/SKILLS
 **Technical Skills:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
@@ -36,7 +41,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmtorun&layout=compact 
--->
+
 
 <details>
 <summary>
@@ -50,3 +55,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmtorun&layo
 <li><b>Cloud:</b> AWS, Packer, Terraform (beginner)</li>
 </ul>
 </details>
+-->
