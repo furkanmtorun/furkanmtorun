@@ -9,7 +9,7 @@
 - **🎯 Interested in:** 
   Data Science & Machine Learning | Bioinformatics/Computational Biology | Genetics & Omics |  AWS Solutions
 
-**🔗 Let's connect:** <br><br>
+**🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
 [![Website](https://img.shields.io/badge/-Personal%20Website-blueviolet.svg)](https://furkanmtorun.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/furkanmtorun/)
