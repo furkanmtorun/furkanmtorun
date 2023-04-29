@@ -1,18 +1,15 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true&theme=transparent'>
 
-### Hi there, I'm Furkan M. Torun! 👋
+### Hi there, I'm Furkan! 👋
 
 - 🧬 *debugging DNA software!*
 - 🎓 Graduated in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
 - 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/), Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
 - **🎯 Interested in:** 
-  - Data Science & Machine Learning
-  - Bioinformatics/Computational Biology
-  - (AWS) Cloud-based Development
-  - Genetics & Omics
+  - Data Science & Machine Learning | Bioinformatics/Computational Biology | Genetics & Omics |  (AWS) Cloud-based Development
 
-**🔗 Let's connect:** <br>
+**🔗 Let's connect:** <br><br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
 [![Website](https://img.shields.io/badge/-Personal%20Website-blueviolet.svg)](https://furkanmtorun.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/furkanmtorun/)
