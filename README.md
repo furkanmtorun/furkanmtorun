@@ -3,7 +3,7 @@
 ### Hi there, I'm Furkan! 👋
 
 - 🧬 *debugging DNA software!*
-- 🎓 Graduated in Molecular Biology and Genetics
+- 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
 - 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/), Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
 - **🎯 Interested in:** 
