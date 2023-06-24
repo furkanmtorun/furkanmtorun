@@ -1,5 +1,5 @@
 <!-- Analytics <img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true&theme=transparent'> -->
-<img align='right' style="border-radius: 50%;" src='https://user-images.githubusercontent.com/49681382/165621959-1991c02b-2682-4e35-8b46-2bc52a6fd2c5.png' height=200 width=200> 
+<!-- Profile <img align='right' style="border-radius: 50%;" src='https://user-images.githubusercontent.com/49681382/165621959-1991c02b-2682-4e35-8b46-2bc52a6fd2c5.png' height=200 width=200>  -->
 
 ### Hi there, I'm Furkan! 👋
 
