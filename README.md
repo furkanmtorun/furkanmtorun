@@ -7,8 +7,7 @@
 - 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
 - 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/), Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
-- **🎯 Interested in:** 
-  Data Science & Machine Learning | Bioinformatics/Computational Biology | Genetics & Omics |  AWS Solutions
+- 🎯 Data Science & Machine Learning | Bioinformatics | Genetics & Omics |  AWS
 
 **🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
