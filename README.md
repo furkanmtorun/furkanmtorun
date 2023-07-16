@@ -1,13 +1,14 @@
-<!-- Analytics <img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true&theme=transparent'> -->
-<!-- Profile <img align='right' style="border-radius: 50%;" src='https://user-images.githubusercontent.com/49681382/165621959-1991c02b-2682-4e35-8b46-2bc52a6fd2c5.png' height=200 width=200>  -->
+<!-- Analytics 
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true&theme=transparent'>
+-->
 
 ### Hi there, I'm Furkan! 👋
 
 - 🧬 *debugging DNA software!*
 - 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](http://omicera.com/), Computational Biologist at [Rare Disease Research Laboratory](https://github.com/thekaplanlab)
-- 🎯 Data Science & Machine Learning | Bioinformatics | Genetics & Omics |  AWS
+- 🎯 Data Science & Machine Learning | Bioinformatics | Genetics & Omics | AWS
+- 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](https://github.com/omicera) & Computational Biologist at [Rare Disease Research Lab](https://github.com/thekaplanlab)
 
 **🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
