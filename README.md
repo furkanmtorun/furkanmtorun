@@ -7,8 +7,7 @@
 - 🧬 *debugging DNA software!*
 - 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🎯 Data Science & Machine Learning | Bioinformatics | Genetics & Omics | AWS
-- 🧪 Formerly: Data Scientist at [OmicEra Diagnostics](https://github.com/omicera) & Computational Biologist at [Rare Disease Research Lab](https://github.com/thekaplanlab)
+- 🎯 Data Science/Engineering & Machine Learning | Bioinformatics | Genetics & Omics | AWS
 
 **🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
@@ -18,7 +17,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/furkanmtorun/)
 ![furkanmtorun](https://komarev.com/ghpvc/?username=furkanmtorun&color=blueviolet)
 
-<!-- DISABLE TECH STACK/SKILLS
+<!-- TECH STACK/SKILLS
 **Technical Skills:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
