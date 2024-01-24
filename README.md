@@ -4,7 +4,7 @@
 
 **Hi there, I'm Furkan! 👋**
 
-- 🧬 *debugging DNA software!*
+- 🧬 debugging DNA software!
 - 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
 - 🎯 Data Science & Engineering | Machine Learning | Bioinformatics | Genetics & Omics | AWS
