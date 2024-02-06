@@ -2,7 +2,7 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=furkanmtorun&show_icons=true&theme=transparent'>
 -->
 
-**Hi there, I'm Furkan! 👋**
+## Hi there, I'm Furkan! 👋
 
 - 🧬 debugging DNA software!
 - 🎓 BSc. in Molecular Biology and Genetics
