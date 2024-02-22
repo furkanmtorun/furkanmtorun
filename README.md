@@ -7,7 +7,7 @@
 - 🧬 debugging DNA software!
 - 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🎯 Data Science & Engineering | Machine Learning | Bioinformatics | Genetics & Omics | AWS
+- 🎯 Data Science & Engineering | AWS | Machine Learning | Bioinformatics | Genetics & Omics
 
 **🔗 Let's connect:** <br>
 [![Gmail](https://img.shields.io/badge/-furkanmtorun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furkanmtorun@gmail.com)](mailto:furkanmtorun@gmail.com)
