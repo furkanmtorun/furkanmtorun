@@ -5,9 +5,9 @@
 ## Hi there, I'm Furkan! 👋
 
 - 🧬 debugging DNA software!
-- 🎓 BSc. in Molecular Biology and Genetics
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🎯 Data Science & Engineering | AWS | Machine Learning | Bioinformatics | Genetics & Omics
+- 🎓 BSc. in Molecular Biology and Genetics
+- 🎯 Data Science | AWS | Machine Learning | Bioinformatics | Genetics & Omics
 
 **🔗 Let's connect:** <br>
 [![Website](https://img.shields.io/badge/-Personal%20Website-blueviolet.svg)](https://furkanmtorun.github.io/)
