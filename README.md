@@ -6,7 +6,6 @@
 
 - 🧬 debugging DNA software!
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
-- 🎓 BSc. in Molecular Biology and Genetics
 - 🎯 Data Science | AWS | Machine Learning | Bioinformatics | Genetics & Omics
 
 **🔗 Let's connect:** <br>
