@@ -1,4 +1,4 @@
-## Hi there, I'm Furkan! 👋
+## Hey, I'm Furkan! 👋
 
 - 🧬 debugging DNA software!
 - 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
