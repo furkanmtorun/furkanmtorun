@@ -1,7 +1,7 @@
 ## Hey, I'm Furkan! 👋
 
 - 🧬 debugging DNA software!
-- 👨‍💻 Researcher & Data Scientist at [Exact Sciences](https://www.exactsciences.com/) in Munich
+- 👨‍💻 Researcher & Data Engineer at [Exact Sciences](https://www.exactsciences.com/) in Munich
 - 🎯 Data Science | AWS | Machine Learning | Bioinformatics/Computational Biology | Omics
 
     [![Website](https://img.shields.io/badge/-Personal%20Website-blueviolet.svg)](https://furkanmtorun.github.io/)
