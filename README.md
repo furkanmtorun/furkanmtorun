@@ -1,7 +1,7 @@
 ## Hey, I'm Furkan! 👋
 
 - 👨‍💻 Data Engineer & Researcher at [Abbott](https://www.abbott.com/) in Munich
-- 🎯 Data Science | AWS | Terraform | ML | Bioinformatics/Computational Biology | Omics
+- 🎯 Data Science | AWS | Machine Learning | Bioinformatics/Computational Biology | Omics
 - 🧬 debugging DNA software!
 
     [![Website](https://img.shields.io/badge/-Personal%20Website-blueviolet.svg)](https://furkanmtorun.github.io/)
