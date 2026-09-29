@@ -1,6 +1,6 @@
 ## Hey, I'm Furkan! 👋
 
-- 👨‍💻 Data Engineer & Researcher at [Abbott](https://www.abbott.com/) in Munich
+- 👨‍💻 Full-Stack Engineer & Researcher at [Abbott](https://www.abbott.com/) in Palo Alto, CA, USA
 - 🎯 Data Science | AWS | Machine Learning | Bioinformatics/Computational Biology | Omics
 - 🧬 debugging DNA software!
 
