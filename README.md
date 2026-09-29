@@ -1,6 +1,6 @@
 ## Hey, I'm Furkan! 👋
 
-- 👨‍💻 Full-Stack Engineer & Researcher at [Abbott](https://www.abbott.com/) in Palo Alto, CA, USA
+- 👨‍💻 Full-Stack Engineer & Researcher at [Abbott](https://www.abbott.com/) in Palo Alto, CA
 - 🎯 Data Science | AWS | Machine Learning | Bioinformatics/Computational Biology | Omics
 - 🧬 debugging DNA software!
 
