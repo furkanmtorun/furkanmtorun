@@ -1,7 +1,7 @@
 ## Hey, I'm Furkan! 👋
 
 - 🧬 debugging DNA software!
-- 👨‍💻 Full-Stack Engineer & Researcher at [Arc Institute](https://arcinstitute.org/) in Palo Alto, CA, United States
+- 👨‍💻 Full-Stack Engineer at [Arc Institute](https://arcinstitute.org/) in Palo Alto, CA, United States
 - 🏛️ Former Data Engineer and Data Scientist at [Abbott](https://abbott.com/) and [Exact Sciences](https://www.exactsciences.com/) in Munich, Germany
 - 🎯 Data Science | AWS | AI / ML | Bioinformatics / Computational Biology | Omics
 
