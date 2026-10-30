@@ -2,7 +2,7 @@
 
 - 🧬 debugging DNA software!
 - 👨‍💻 Full-Stack Engineer at [Arc Institute](https://arcinstitute.org/) in Palo Alto, CA, United States
-- 🏛️ Former Data Engineer and Data Scientist at [Abbott](https://abbott.com/) and [Exact Sciences](https://www.exactsciences.com/) in Munich, Germany
+- 🏛️ Former Data Engineer and Data Scientist at [Abbott](https://abbott.com/) and [Exact Sciences](https://www.exactsciences.com/)
 - 🎯 Data Science | AWS | AI / ML | Bioinformatics / Computational Biology | Omics
 
 
